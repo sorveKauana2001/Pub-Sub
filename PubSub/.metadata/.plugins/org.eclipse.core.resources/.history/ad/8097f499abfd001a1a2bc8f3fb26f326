@@ -1,0 +1,5 @@
+package pubsub.publisher;
+
+public interface Publisher {
+
+}

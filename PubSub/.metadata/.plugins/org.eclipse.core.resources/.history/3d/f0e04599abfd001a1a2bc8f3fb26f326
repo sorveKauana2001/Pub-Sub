@@ -1,0 +1,5 @@
+package pubsub.service;
+
+public class PubSubService {
+
+}
